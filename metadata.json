@@ -1,0 +1,7 @@
+{
+  "name": "Smart QR Master",
+  "description": "A production-ready QR code generator with intelligent data type detection, Material 3 design, and support for URLs, contacts, WiFi, and file-to-cloud conversion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
